@@ -1,7 +1,7 @@
-# Shay Levi
+# Shay Leo Levi
 
 ### Hi there 👋
-I'm Shay Levi, a physicist transitioning into the world of data science with a passion for unraveling the mysteries of medical technology. With a solid foundation in computational models, data analysis, and algorithm development honed during my time at Novocure's Research and Development team, I'm excited to embark on this new journey.
+I'm Shay Leo Levi, a physicist transitioning into the world of data science with a passion for unraveling the mysteries of medical technology. With a solid foundation in computational models, data analysis, and algorithm development honed during my time at Novocure's Research and Development team, I'm excited to embark on this new journey.
 
 🔬 During my time at Novocure, I got deep into the world of Tumor Treating Fields (TTFields) and how they affect glioblastoma progression. From crunching numbers to playing around with cool algorithms, I've been right in the thick of medical research, helping out with clinical trials and bringing fresh perspectives to the team.
 
