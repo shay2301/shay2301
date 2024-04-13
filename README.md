@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+
+### Languages and Tools
+
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/python@0.0.4/lib/python.min.js"/>
 <!--
 **shay2301/shay2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
