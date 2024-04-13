@@ -9,6 +9,8 @@ I'm Shay Leo Levi, a physicist transitioning into the world of data science with
 
 📚 Right now, I'm leveling up my skills at the School of Data Science Ydata program, diving headfirst into deep learning with PyTorch. Graduation's coming up in July 2024, and I'm pumped to bring all this new knowledge to the table.
 
+🚧 This bio is a WIP, I'll be adding projects soon.
+
 ### Languages and Tools
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
