@@ -1,13 +1,13 @@
-# Shay Leo Levi
+# Shay Levi
 
 ### Hi there 👋
-I'm Shay Leo Levi, a physicist transitioning into the world of data science with a passion for unraveling the mysteries of medical technology. With a solid foundation in computational models, data analysis, and algorithm development honed during my time at Novocure's Research and Development team, I'm excited to embark on this new journey.
+I'm Shay Levi, a data expert with hands-on experience working on complex datasets, simulations, and advanced analytics to drive research and real-world impact across industries.
 
-🔬 During my time at Novocure, I got deep into the world of Tumor Treating Fields (TTFields) and how they affect glioblastoma progression. From crunching numbers to playing around with cool algorithms, I've been right in the thick of medical research, helping out with clinical trials and bringing fresh perspectives to the team.
+🧠 At Novocure, I worked on a large-scale simulation project involving over 600 glioblastoma patients from the EF-14 clinical trial. Using Python and MATLAB, I integrated MRI-based simulations, manual tumor segmentation, and diffeomorphic image registration to extract key features like electric field distribution and power density. I correlated these metrics with clinical outcomes such as progression-free and overall survival, using Kaplan-Meier analysis to uncover insights that informed treatment planning.
 
-💻 I love geeking out over data and messing around with machine learning models, especially when it means collaborating with awesome teams on super interesting projects.
+📊 I'm comfortable across the data spectrum—from wrangling and exploring data to training machine learning models and communicating results clearly. Whether it’s Python, SQL, or deep learning in PyTorch, I enjoy turning data into actionable insights.
 
-📚 Right now, I'm leveling up my skills at the School of Data Science Ydata program, diving headfirst into deep learning with PyTorch. Graduation's coming up in July 2024, and I'm pumped to bring all this new knowledge to the table.
+🚀 I recently completed the YData School of Data Science program, where I focused on practical machine learning, deep learning with PyTorch, computer vision, and explored emerging topics like large language models (LLMs), generative AI, and prompt engineering.
 
 ### Languages and Tools
 
