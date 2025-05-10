@@ -5,7 +5,7 @@ I'm Shay Levi, a data expert with hands-on experience working on complex dataset
 
 🧠 At Novocure, I worked on a large-scale simulation project involving over 600 glioblastoma patients from the EF-14 clinical trial. Using Python and MATLAB, I integrated MRI-based simulations, manual tumor segmentation, and diffeomorphic image registration to extract key features like electric field distribution and power density. I correlated these metrics with clinical outcomes such as progression-free and overall survival, using Kaplan-Meier analysis to uncover insights that informed treatment planning.
 
-📊 I'm comfortable across the data spectrum—from wrangling and exploring data to training machine learning models and communicating results clearly. Whether it’s Python, SQL, or deep learning in PyTorch, I enjoy turning data into actionable insights.
+📊 I'm comfortable across the data spectrum, from wrangling and exploring data to training machine learning models and communicating results clearly. Whether it’s Python, SQL, or deep learning in PyTorch, I enjoy turning data into actionable insights.
 
 🚀 I recently completed the YData School of Data Science program, where I focused on practical machine learning, deep learning with PyTorch, computer vision, and explored emerging topics like large language models (LLMs), generative AI, and prompt engineering.
 
