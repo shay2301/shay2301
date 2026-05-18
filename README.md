@@ -1,35 +1,36 @@
-# Shay Levi
+# Shay Leo Levi
 
-### Hi there 👋
-I'm Shay Levi, a data expert with hands-on experience working on complex datasets, simulations, and advanced analytics to drive research and real-world impact across industries.
+AI engineer building production agentic systems. Currently independent — shipping products and consulting on agentic architecture for regulated domains (insurance, healthcare). Based in Israel.
 
-🧠 At Novocure, I worked on a large-scale simulation project involving over 600 glioblastoma patients from the EF-14 clinical trial. Using Python and MATLAB, I integrated MRI-based simulations, manual tumor segmentation, and diffeomorphic image registration to extract key features like electric field distribution and power density. I correlated these metrics with clinical outcomes such as progression-free and overall survival, using Kaplan-Meier analysis to uncover insights that informed treatment planning.
+### Current focus
 
-📊 I'm comfortable across the data spectrum, from wrangling and exploring data to training machine learning models and communicating results clearly. Whether it’s Python, SQL, or deep learning in PyTorch, I enjoy turning data into actionable insights.
+- 🏗️ **Agentic systems in production** — multi-agent orchestration, tool design, MCP integration, context management, eval-driven iteration.
+- 🇮🇱 **Hebrew-language AI for regulated domains** — RAG over Israeli insurance corpora, court documents, and other multilingual data where the off-the-shelf English tooling falls short.
+- 🚀 **Shipping products** — most recent: [PhotoHeirloom](https://photoheirloom.com), AI photo restoration focused on faithful reconstruction of vintage photographs.
 
-🚀 I recently completed the YData School of Data Science program, where I focused on practical machine learning, deep learning with PyTorch, computer vision, and explored emerging topics like large language models (LLMs), generative AI, and prompt engineering.
+### Public repos worth looking at
 
-### Languages and Tools
+- [`oneq-mastra-salesman`](https://github.com/shay2301/oneq-mastra-salesman) — sales agent built with Mastra and Claude Sonnet 4 (TypeScript)
+- [`mastra-transcription-agent`](https://github.com/shay2301/mastra-transcription-agent) — real-time audio transcription via Mastra + Whisper (Groq/OpenRouter); Discord and Zoom integrations
+- [`cardiac-stage-prediction`](https://github.com/shay2301/cardiac-stage-prediction) — U-Net / TransUNet segmentation of cardiac structures in echocardiogram video (Viz.ai internship)
 
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg"/>
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+Most of my current work lives in private repos.
 
+### Background
 
+Physics (BGU) → senior data analyst on clinical-trial simulations at Novocure (co-authored a *Red Journal* paper; the work shipped in their Maxpoint treatment planning software) → Y-DATA / Nebius Academy → computer vision at Viz.ai → agentic AI.
 
-<!--
-**shay2301/shay2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder volunteer in the Nebius Academy AI Performance Engineering course community.
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**: TypeScript · Python
+**Agentic**: Mastra · MCP · Claude (Anthropic API, Claude Code) · OpenAI
+**Retrieval**: Qdrant · hybrid retrieval · RAG over multilingual corpora
+**Infra**: self-hosted VPS · Tailscale · Docker · Supabase
+**ML/DL**: PyTorch · scikit-learn · HuggingFace · OpenCV
+
+### Reach me
+
+📧 shay2301@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/shaylevi/)
