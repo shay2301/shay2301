@@ -1,6 +1,6 @@
 # Shay Leo Levi
 
-AI engineer building production agentic systems. Currently independent — shipping products and consulting on agentic architecture for regulated domains (insurance, healthcare). Based in Israel.
+AI engineer building production agentic systems. Currently independent — shipping products and consulting on agentic architecture for regulated domains. Based in Israel.
 
 ### Current focus
 
