@@ -18,7 +18,7 @@ Most of my current work lives in private repos.
 
 ### Background
 
-Physics (BGU) → senior data analyst on clinical-trial simulations at Novocure (co-authored a *Red Journal* paper; the work shipped in their Maxpoint treatment planning software) → Y-DATA / Nebius Academy → computer vision at Viz.ai → agentic AI.
+Physics (BGU) → Physicist working on clinical-trial simulations at Novocure (co-authored a *Red Journal* paper; the work shipped in their Maxpoint treatment planning software) → Y-DATA / Nebius Academy → computer vision at Viz.ai → agentic AI.
 
 Builder volunteer in the Nebius Academy AI Performance Engineering course community.
 
